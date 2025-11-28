@@ -90,7 +90,7 @@ CNN-based pneumonia detection from chest X-rays.
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="mailto:ashleybinu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:ashleybinu2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/ashley52/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/ashleyy52"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.instagram.com/__ashleyyy.___/?hl=en"><img src="https://skillicons.dev/icons?i=instagram" /></a>
