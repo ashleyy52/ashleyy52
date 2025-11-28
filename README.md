@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/banner.png" alt="Abstract teal layered banner" width="100%">
 </p>
+<br>
+
 
 <h1 align="center">Hi, I'm <span style="color:#6C63FF;">Ashley Binu</span> 👋</h1>
 
