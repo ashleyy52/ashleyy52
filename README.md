@@ -26,8 +26,6 @@
 
 ## 🌟 Featured Projects  
 
----
-
 ### 🔹 SpeakEase 2.0  
 AI-powered speech assessment for children.  
 **Tech:** Flutter • FastAPI • PyTorch • Transformers  
