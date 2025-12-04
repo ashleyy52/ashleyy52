@@ -4,7 +4,6 @@
 </p>
 <br>
 
-
 <h1 align="center">Hi, I'm <span style="color:#6C63FF;">Ashley Binu</span> 👋</h1>
 
 <p align="center">
@@ -27,16 +26,31 @@
 
 ## 🌟 Featured Projects  
 
+---
+
 ### 🔹 SpeakEase 2.0  
 AI-powered speech assessment for children.  
 **Tech:** Flutter • FastAPI • PyTorch • Transformers  
-📸 *Click to preview screenshots*
+
+#### 📸 Screenshots  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/speakeee/1.png" width="30%">
+  <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/speakeee/2.png" width="30%">
+  <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/speakeee/4.png" width="30%">
+</p>
 
 ---
 
 ### 🔹 PulmoGuard  
 CNN-based pneumonia detection from chest X-rays.  
 **Tech:** TensorFlow • Flask • CNN Models  
+
+#### 📸 Screenshots  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p1.png" width="32%">
+  <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p2.png" width="32%">
+  <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p3.png" width="32%">
+</p>
 
 ---
 
