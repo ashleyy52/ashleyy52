@@ -32,12 +32,15 @@
 AI-powered speech assessment for children.  
 **Tech:** Flutter • FastAPI • PyTorch • Transformers  
 
-#### 📸 Screenshots  
-<p align="center">
-  <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/speakeee/1.jpg" width="30%">
-  <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/speakeee/2.jpg" width="30%">
-  <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/speakeee/4.jpg" width="30%">
-</p>
+<details>
+  <summary><strong>📸 Preview Screenshots</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/speakeee/1.jpg" width="30%">
+    <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/speakeee/2.jpg" width="30%">
+    <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/speakeee/4.jpg" width="30%">
+  </p>
+</details>
 
 ---
 
@@ -45,12 +48,15 @@ AI-powered speech assessment for children.
 CNN-based pneumonia detection from chest X-rays.  
 **Tech:** TensorFlow • Flask • CNN Models  
 
-#### 📸 Screenshots  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p1.png" width="32%">
-  <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p2.png" width="32%">
-  <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p3.png" width="32%">
-</p>
+<details>
+  <summary><strong>📸 Preview Screenshots</strong></summary>
+  <br>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p1.png" width="32%">
+    <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p2.png" width="32%">
+    <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p3.png" width="32%">
+  </p>
+</details>
 
 ---
 
