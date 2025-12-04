@@ -52,9 +52,12 @@ CNN-based pneumonia detection from chest X-rays.
   <summary><strong>📸 Preview Screenshots</strong></summary>
   <br>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p1.png" width="32%">
-    <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p2.png" width="32%">
-    <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/pulmoguard/p3.png" width="32%">
+    <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/Analysis%20Demo/1.png" width="32%">
+    <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/Analysis%20Demo/2.png" width="32%">
+    <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/Analysis%20Demo/3.png" width="32%">
+    <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/Analysis%20Demo/4.png" width="32%">
+    <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/Analysis%20Demo/5.png" width="32%">
+    
   </p>
 </details>
 
