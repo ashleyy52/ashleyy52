@@ -34,9 +34,9 @@ AI-powered speech assessment for children.
 
 #### 📸 Screenshots  
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/speakeee/1.png](https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/speakeee/1.jpg?raw=true)" width="30%">
-  <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/speakeee/2.png" width="30%">
-  <img src="https://raw.githubusercontent.com/ashleyy52/ashleyy52/main/assets/assets/speakeee/4.png" width="30%">
+  <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/speakeee/1.jpg" width="30%">
+  <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/speakeee/2.jpg" width="30%">
+  <img src="https://github.com/ashleyy52/ashleyy52/blob/main/assets/assets/speakeee/4.jpg" width="30%">
 </p>
 
 ---
